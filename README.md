@@ -1,7 +1,7 @@
 # 334
 ## Description
-This code is a sample of trigger of Google Apps Script by the minutes.
-This code tweet text at 3:34 every day.
+This code is a sample of trigger of Google Apps Script.
+This tweet text at 3:34 every day.
 
 ## Setup
 ### Twitter
